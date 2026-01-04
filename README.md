@@ -2,13 +2,14 @@
 ## Reprogramação Celular Controlada no Tempo: Animação Suspensa como Estratégia Transitória para Facilitar a Reprogramação Celular
 
 
+
 <p align="center">
-  <img src="https://github.com/heryon/Project_Morpheus/blob/9af3f0ad0ed9f10583667af2881c7bb933b91133/Tecnologia_conceitual_anima%C3%A7%C3%A3o_suspensa.png" width=30% height=30%/>
+  <img src="https://github.com/heryon/Project_Morpheus/blob/5a983c9ad4b63bab859fcc33c292e9101b5a2fa7/Morpheus.png" width=60%/>
 </p>
 
 ---
 
-## Resumo (Abstract)
+## Resumo 
 
 A reprogramação celular induzida representa um dos avanços mais relevantes da biologia moderna ao demonstrar que o estado diferenciado das células não é irreversível. Desde a demonstração seminal de Takahashi e Yamanaka, que evidenciou a possibilidade de reverter células somáticas a um estado pluripotente por meio da ativação de fatores específicos, a reprogramação celular passou a ser entendida como um processo controlável, porém altamente instável e sensível às condições fisiológicas do sistema celular . Estudos subsequentes revelaram que esse processo é fortemente impactado por ruído metabólico, estresse oxidativo e flutuações epigenéticas, fatores que limitam sua eficiência, previsibilidade e segurança biológica.
 
@@ -72,6 +73,12 @@ Dessa forma, estabelece-se uma ponte causal clara entre metabolismo e dificuldad
 ---
 
 ## 4. Animação Suspensa como Estratégia Experimental
+
+<p align="center">
+  <img src="https://github.com/heryon/Project_Morpheus/blob/9af3f0ad0ed9f10583667af2881c7bb933b91133/Tecnologia_conceitual_anima%C3%A7%C3%A3o_suspensa.png" width=30% height=30%/>
+</p>
+
+---
 
 Tradicionalmente, a animação suspensa tem sido abordada como um objetivo final, seja no contexto da preservação de organismos, da medicina de emergência ou de aplicações futuristas. No entanto, esse enquadramento limita seu potencial científico. Neste trabalho, propõe-se uma mudança conceitual fundamental: a animação suspensa deve ser compreendida como um regime fisiológico transitório, capaz de modular o ambiente celular de forma controlada, criando condições ideais para intervenções de alta complexidade, como a reprogramação celular.
 
